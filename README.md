@@ -32,7 +32,6 @@
 
 ## EXPERIMENT 8 OUTPUTS
 ![image](https://user-images.githubusercontent.com/113348215/194259037-037d8db2-82d1-43da-9a5b-716dbf32cda6.png)
-mages.githubusercontent.com/113348215/194258407-ed4a683f-10ad-4d61-859f-977c88c36fb0.png)
 ![image](https://user-images.githubusercontent.com/113348215/194258454-e8b8536e-6af4-4677-840a-c62ce740a9ae.png)
 
 ## EXPERIMENT 9 OUTPUTS
