@@ -58,3 +58,14 @@
 ## EXPERIMENT 14 OUTPUTS
 ![image](https://user-images.githubusercontent.com/113348215/194259676-b3e79928-0547-4fe1-8d33-6cd8fc8193d0.png)
 
+## EXPERIMENT 15 OUTPUTS
+![image](https://user-images.githubusercontent.com/113348215/194359612-1a3e1566-f614-4d5c-af2a-0ef0c450a9f1.png)
+
+## EXPERIMENT 16 OUTPUTS
+![image](https://user-images.githubusercontent.com/113348215/194359696-356d7836-2d63-4052-8fd7-c179f32f60ec.png)
+
+## EXPERIMENT 17 OUTPUTS
+![image](https://user-images.githubusercontent.com/113348215/194359776-12ab83e5-270e-47ee-a356-d542cbbbe342.png)
+
+## EXPERIMENT 18 OUTPUTS
+![image](https://user-images.githubusercontent.com/113348215/194359897-0ff45ccd-4f1d-40f8-9b24-1f1c2f4a2b09.png)
